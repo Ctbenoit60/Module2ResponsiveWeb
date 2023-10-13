@@ -6,6 +6,12 @@
   background-color: #3c7c7c;
 }
 
+img {
+    border-radius: 50%;
+    max-width: 300px;
+    height: auto;
+  }
+
 .container {
   display: flex;
   margin: 1px;
