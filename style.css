@@ -1,0 +1,45 @@
+.background1 {
+  background-color: rgb(150, 197, 197);
+}
+
+.background2 {
+  background-color: #3c7c7c;
+}
+
+img {
+  border-radius: 60%;
+  max-width: 200px;
+  height: auto;
+}
+
+.container {
+  display: flex;
+  margin: 1px;
+}
+
+.personal_container {
+  align-items: flex-start;
+  margin: 1px;
+  padding: 10px;
+  font-weight: bold;
+}
+
+.tools {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  flex-flow: column;
+  justify-content: space-between;
+}
+
+.background_container {
+  align-items: flex-end;
+  padding: 10px;
+}
+
+footer {
+  background-color: #3c7c7c;
+  text-align: center;
+  margin-top: 10px;
+  padding: 1px;
+}
